@@ -22,6 +22,7 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     NSLog(@"welcome to me");
+    NSLog(@"welcome to 22222");
     // Dispose of any resources that can be recreated.
 }
 
